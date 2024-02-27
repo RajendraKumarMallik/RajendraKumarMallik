@@ -40,10 +40,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Condescending-Goku.jpg"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/rajendra-kumar-mallik-4a763a24b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,8 +57,17 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/RajendraKumarMallik/RajendraKumarMallik/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src="https://imgflip.com/s/meme/Condescending-Goku.jpg"  />
+
+###
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=RajendraKumarMallik" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajendraKumarMallik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajendraKumarMallik&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
