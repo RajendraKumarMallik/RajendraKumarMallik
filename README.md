@@ -57,10 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RajendraKumarMallik/RajendraKumarMallik/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://imgflip.com/s/meme/Condescending-Goku.jpg"  />
 
 ###
