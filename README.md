@@ -57,7 +57,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Condescending-Goku.jpg"  />
+<img align="center" height="150" src="https://imgflip.com/s/meme/Condescending-Goku.jpg"  />
 
 ###
 
